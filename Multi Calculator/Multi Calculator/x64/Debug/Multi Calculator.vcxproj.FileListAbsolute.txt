@@ -1,0 +1,4 @@
+C:\Users\hafiz\Desktop\Multi Calculator\Multi Calculator\x64\Debug\Multi Calculator.vcxproj.AssemblyReference.cache
+C:\Users\hafiz\Desktop\Multi Calculator\Multi Calculator\x64\Debug\Multi Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hafiz\Desktop\Multi Calculator\Multi Calculator\x64\Debug\MultiCalculator.MyForm.resources
+C:\Users\hafiz\Desktop\Multi Calculator\Multi Calculator\x64\Debug\Multi Calculator.vcxproj.GenerateResource.cache
